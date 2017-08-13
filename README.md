@@ -34,7 +34,7 @@ As I don't want to go to prison, the provided binaries (./bin/winrepl_x86.exe an
 
 You may wish to build from source for various reasons. At this time, all development is done in VS2015. If you use a different version, you will need to re-compile the Keystone .lib files with the same Microsoft compiler (cl.exe). Refer to http://www.keystone-engine.org/
 
-## Todo
+### Todo
 As always happens, code is rushed and awful.
 
 1. Clean up the hodge-podge of C and C++
