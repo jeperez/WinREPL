@@ -30,7 +30,7 @@ Besides being a raw assembler, there are a few extra commands.
 ```
 
 ### Building
-As I don't want to go to prison, the provided binaries (winrepl_x86.exe and winrepl_x64.exe) are not backdoored. That said, this program works via sorcery that is probably suspicious to antivirus.
+As I don't want to go to prison, the provided binaries (./bin/winrepl_x86.exe and ./bin/winrepl_x64.exe) are not backdoored. That said, this program works via sorcery that is probably suspicious to antivirus.
 
 You may wish to build from source for various reasons. At this time, all development is done in VS2015. If you use a different version, you will need to re-compile the Keystone .lib files with the same Microsoft compiler (cl.exe). Refer to http://www.keystone-engine.org/
 
