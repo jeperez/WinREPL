@@ -1,6 +1,8 @@
 # WinREPL
 WinREPL is a "read-eval-print loop" for x86 and x64 assembly on Windows systems. It is similar to yrp604/rappel (Linux) and Tyilo/asm_repl (Mac).
 
+![WinREPL](/screenshot.png?raw=true "WinREPL")
+
 ### Methodology
 WinREPL is a debugger (parent process) that hollows out a copy of itself (child process).
 
